@@ -1,0 +1,132 @@
+name: flutter_easy_new
+description: Flutter Packages and Widgets
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 2.0.0+2
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  backdrop: ^0.2.16
+  animated_floatactionbuttons: '0.1.0'
+  cupertino_icons: ^0.1.3
+  liquid_swipe: ^1.5.0
+  quick_actions: ^0.4.0+8
+  flutter_swiper:
+  charts_flutter: '0.9.0'
+  curved_navigation_bar: ^0.3.2
+  english_words: '3.1.5'
+  flutter_bloc: '3.2.0'
+  flutter_gallery_assets: '0.1.9+2'
+  flutter_markdown: '0.3.4'
+  flutter_webview_plugin: '0.3.11'
+  flutter_auth_buttons: ^0.8.0
+  flutter_colorpicker: ^0.3.4
+  speedometer: "^1.0.1"
+  vertical_card_pager: ^1.0.0
+  flutter_custom_clippers:
+  share: ^0.6.2+3
+  fluttertoast: '4.0.1'
+  google_sign_in: '4.4.1'
+  http: '0.12.0+4'
+  image_picker: '0.6.4'
+  lottie: '^0.6.0'
+  badges: '^1.1.1'
+  shimmer: '^1.1.1'
+  package_info: '0.4.0+16'
+  path_provider: '1.6.10'
+  path: '1.6.4'
+  provider: '4.0.4'
+  scoped_model: '1.0.1'
+  sembast: '2.4.2'
+  splashscreen:
+  url_launcher:
+  shared_preferences: '0.5.6+3'
+  sqflite: '1.3.0'
+  substring_highlight: '0.1.2'
+  widget_with_codeview: ^1.0.3
+  transparent_image: '1.0.0'
+  intro_views_flutter: '^2.8.1'
+  timeline_list: ^0.0.3
+  shrink_sidemenu: ^1.0.0+3
+  flutter_multi_carousel: ^1.0.0
+  scratcher: "^1.3.0"
+  async: '^2.4.2'
+  cached_network_image: '2.0.0'
+  video_player:
+  story_view: '0.12.1'
+  flutter_staggered_grid_view:
+  local_auth: '0.6.1+3'
+  toggle_bar:
+  giffy_dialog:
+  liquid_ui:
+  spincircle_bottom_bar: ^1.0.0
+  lamp_bottom_navigation: ^0.1.1
+  bubble_bottom_bar: ^1.2.0
+  flutter_snake_navigationbar: ^0.4.0+1
+  line_icons:
+  font_awesome_flutter:
+
+dev_dependencies:
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/aboutus.dart
+    - lib/model/
+    - lib/advance.dart
+    - lib/detail_page.dart
+    - lib/main.dart
+    - lib/samples.dart
+    - lib/routes/
+    - assets/images/
+    - assets/videos/
+    - assets/ballonlogin.jpeg
+    - assets/scratch.png
+    - assets/flutter.png
+    - assets/dart.png
+    - assets/google.png
+    - assets/gif.gif
+    - assets/logo.png
+    - assets/air-hostess.png
+    - assets/airplane.png
+    - assets/bus-driver.png
+    - assets/bus.png
+    - assets/hotel.png
+    - assets/taxi.png
+    - assets/taxi-driver.png
+    - assets/waiter.png
+    - res/images/
+    - res/lottie/
+    - assets/space_demo.flr
+    - assets/1.png
+    - assets/images/bg0.jpeg
+    - assets/cart2.jpg
+    - assets/coffe_cart.jpeg
+    - assets/images/bg1.jpeg
+    - assets/images/bg2.jpeg
+    - assets/men_wearing_jacket.gif
+    - assets/flutter1.png
+    - assets/flutter2.png
+    - assets/flutter3.png
+    - assets/flutter4.png
+
+  fonts:
+    - family: Chalkduster
+      fonts:
+        - asset: fonts/Chalkduster.ttf
+    - family: DancingScript
+      fonts:
+        - asset: fonts/DancingScript.ttf
+    - family: NotoSerif
+      fonts:
+        - asset: fonts/NotoSerif-Bold.ttf
+    - family: RobotoSlab
+      fonts:
+        - asset: fonts/RobotoSlab.ttf
+    - family: SawarabiMincho
+      fonts:
+        - asset: fonts/SawarabiMincho.ttf

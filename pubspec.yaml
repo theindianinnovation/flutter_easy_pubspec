@@ -1,9 +1,9 @@
 name: flutter_easy_new
-description: Flutter Packages and Widgets
+description: A Flutter Learning App.
 
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+publish_to: 'none'
 
-version: 3.0.0+3
+version: 5.0.0+5
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -11,148 +11,127 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  backdrop: ^0.2.16
-  animated_floatactionbuttons: '0.1.0'
-  cupertino_icons: ^0.1.3
-  liquid_swipe: ^1.5.0
-  quick_actions: ^0.4.0+8
+  cupertino_icons:
+  get:
+  backdrop:
+  animated_floatactionbuttons:
+  liquid_swipe:
+  quick_actions:
   flutter_swiper:
-  charts_flutter: '0.9.0'
-  curved_navigation_bar: ^0.3.2
-  english_words: '3.1.5'
-  flutter_bloc: '3.2.0'
-  flutter_gallery_assets: '0.1.9+2'
-  flutter_markdown: '0.3.4'
-  flutter_webview_plugin: '0.3.11'
-  flutter_auth_buttons: ^0.8.0
-  flutter_colorpicker: ^0.3.4
-  speedometer: "^1.0.1"
-  vertical_card_pager: ^1.0.0
+  charts_flutter:
+  curved_navigation_bar:
+  english_words:
+  flutter_bloc:
+  flutter_gallery_assets:
+  flutter_markdown:
+  flutter_webview_plugin:
+  flutter_auth_buttons:
+  flutter_colorpicker:
+  speedometer:
+  vertical_card_pager:
   flutter_custom_clippers:
-  share: ^0.6.2+3
-  fluttertoast: '4.0.1'
-  google_sign_in: '4.4.1'
-  http: '0.12.2'
-  image_picker: '0.6.4'
-  lottie: '^0.6.0'
-  badges: '^1.1.1'
-  shimmer: '^1.1.1'
-  package_info: '0.4.1'
-  path_provider: '1.6.10'
-  path: '1.6.4'
-  provider: '4.0.4'
-  scoped_model: '1.0.1'
-  sembast: '2.4.2'
+  share:
+  fluttertoast:
+  google_sign_in:
+  http:
+  image_picker:
+  lottie:
+  badges:
+  shimmer:
+  package_info:
+  path_provider:
+  path:
+  provider:
+  scoped_model:
+  sembast:
   splashscreen:
   url_launcher:
-  shared_preferences: '0.5.6+3'
-  sqflite: '1.3.0'
-  substring_highlight: '0.1.2'
-  widget_with_codeview: ^1.0.3
-  transparent_image: '1.0.0'
-  intro_views_flutter: '^2.8.1'
-  timeline_list: ^0.0.3
-  shrink_sidemenu: ^1.0.0+3
-  flutter_multi_carousel: ^1.0.0
-  scratcher: "^1.3.0"
-  async: '^2.4.2'
-  cached_network_image: '2.0.0'
+  shared_preferences:
+  sqflite:
+  substring_highlight:
+  widget_with_codeview:
+  transparent_image:
+  intro_views_flutter:
+  timeline_list:
+  shrink_sidemenu:
+  flutter_multi_carousel:
+  scratcher:
+  async:
+  cached_network_image:
   video_player:
-  story_view: '0.12.1'
-  local_auth: '0.6.1+3'
+  story_view:
+  local_auth:
   toggle_bar:
   giffy_dialog:
   liquid_ui:
-  spincircle_bottom_bar: ^1.0.0
-  lamp_bottom_navigation: ^0.1.1
-  bubble_bottom_bar: ^1.2.0
+  spincircle_bottom_bar:
+  lamp_bottom_navigation:
+  bubble_bottom_bar:
   line_icons:
   font_awesome_flutter:
   palette_generator:
   clipboard:
-  connectivity: ^2.0.0
-  settings_ui: ^0.5.0
-  slimy_card: ^1.0.4
-  timer_builder: ^1.3.0
-  flutter_ticket_widget: ^0.0.1
-  flutter_spinning_wheel: ^1.1.0
-  confetti: ^0.5.4+1
-  snappable: ^1.0.1
-  sticky_grouped_list: ^1.3.0
-  bubble: ^1.1.9+1
-  polls: ^0.2.2
-  flutter_neumorphic: ^3.0.3
-  wave: ^0.1.0
-  liquid_pull_to_refresh: ^2.0.0
-  flip_card: ^0.4.4
+  connectivity:
+  settings_ui:
+  slimy_card:
+  timer_builder:
+  flutter_ticket_widget:
+  flutter_spinning_wheel:
+  confetti:
+  snappable:
+  sticky_grouped_list:
+  bubble:
+  polls:
+  flutter_neumorphic:
+  wave:
+  liquid_pull_to_refresh:
+  flip_card:
   bubble_timeline:
-  flutter_rating_bar: ^3.2.0+1
-  fancy_drawer: ^1.0.0
-  carousel_pro: ^1.0.0
-  flutter_staggered_grid_view: '0.2.7'
-  flutter_chess_board: ^0.9.4
-  flutter_custom_credit_card_ui: ^0.0.1
-  passcode_screen: ^1.2.2+1
-  motion_tab_bar: ^0.1.5
-  pandabar: ^0.1.1
-  clean_settings: ^0.1.5
-  slider_button: ^0.6.0
-  floating_bottom_navigation_bar: ^1.4.1
+  flutter_rating_bar:
+  fancy_drawer:
+  carousel_pro:
+  flutter_staggered_grid_view:
+  flutter_chess_board:
+  flutter_custom_credit_card_ui:
+  passcode_screen:
+  motion_tab_bar:
+  pandabar:
+  slider_button:
+  floating_bottom_navigation_bar:
+  sms_otp_auto_verify:
+  wave_slider:
+  progressive_image:
+  imageview360:
+  before_after:
+  side_menu_animation:
+  elastic_drawer:
+  animated_drawer:
+  foldable_sidebar:
+  status_alert:
+  radial_menu:
+  flutter_anywhere_menus:
+  floatingpanel:
+  decorative_app_bar:
+  fluent_appbar:
+  navigation_rail: ^1.5.0
 
 dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
 flutter:
   uses-material-design: true
   assets:
-    - lib/aboutus.dart
-    - lib/model/
-    - lib/advance.dart
-    - lib/detail_page.dart
-    - lib/main.dart
-    - lib/samples.dart
-    - lib/routes/
-    - assets/wheel-6-300.png
-    - assets/roulette-8-300.png
-    - assets/roulette-center-300.png
+    - assets/
     - assets/images/
-    - assets/videos/
-    - assets/ballonlogin.jpeg
-    - assets/scratch.png
-    - assets/flutter.png
-    - assets/dart.png
-    - assets/google.png
-    - assets/gif.gif
-    - assets/logo.png
-    - assets/air-hostess.png
-    - assets/airplane.png
-    - assets/hotel.png
-    - assets/taxi.png
-    - assets/taxi-driver.png
-    - assets/waiter.png
+    - lib/models/
+    - lib/routes/
     - res/images/
     - res/lottie/
-    - assets/space_demo.flr
-    - assets/1.png
-    - assets/images/bg0.jpeg
-    - assets/cart2.jpg
-    - assets/coffe_cart.jpeg
-    - assets/images/bg1.jpeg
-    - assets/images/bg2.jpeg
-    - assets/men_wearing_jacket.gif
-    - assets/flutter1.png
-    - assets/flutter2.png
-    - assets/flutter3.png
-    - assets/flutter4.png
 
   fonts:
-    - family: DancingScript
+    - family: Quicksand
       fonts:
-        - asset: fonts/DancingScript.ttf
-    - family: NotoSerif
-      fonts:
-        - asset: fonts/NotoSerif-Bold.ttf
-    - family: RobotoSlab
-      fonts:
-        - asset: fonts/RobotoSlab.ttf
-    - family: SawarabiMincho
-      fonts:
-        - asset: fonts/SawarabiMincho.ttf
+        - asset: fonts/Quicksand-VariableFont_wght.ttf
+        - asset: fonts/Quicksand-Bold.ttf
+        - asset: fonts/Quicksand-Medium.ttf
